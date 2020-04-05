@@ -17,7 +17,7 @@ Happy to see suggestions from you all:)
 
 
 ## Technologies Used
-Flutter
+Flutter  
 Dart  
 Visual Studio Code
 
