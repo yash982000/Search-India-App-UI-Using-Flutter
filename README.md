@@ -4,6 +4,7 @@ In this project, I try to make this interactive User Interface in Flutter.
 I also try to added some common and useful functionalities such as "Add to Cart" and "Drag to delete".
 For preview, below are some screenshots adn screen recording of the User Interface.
 
+Happy to see suggestions from you all:)
 
 
 ## Screenshots
