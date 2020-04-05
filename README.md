@@ -18,8 +18,6 @@ Happy to see suggestions from you all:)
 
 ## Technologies Used
 Flutter
-
-
 Dart  
 Visual Studio Code
 
