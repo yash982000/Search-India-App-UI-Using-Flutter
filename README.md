@@ -1,16 +1,23 @@
-# search_india
+# Food Delivery App UI in  <img src='http://sovitpoudel.com.np/wp-content/uploads/2019/01/flutter.png' height='30' width='30' align='top'>
 
-A new Flutter application.
+In this project, I try to make this Search India UI in flutter. 
+The code is editted,formatted and some new features are added to make the UI better for users.
+Preview for the same is shown below.
 
-## Getting Started
+## Technologies Used
+Dart  
+Flutter  
+Visual Studio Code
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src='https://github.com/yash982000/User-Interface-for-a-Food-Delivery-App-Using-Flutter/blob/master/Screenshots/1.png' align='left' width='25%'>
+<img src='https://github.com/yash982000/User-Interface-for-a-Food-Delivery-App-Using-Flutter/blob/master/Screenshots/2.png' align='left' width='25%'>
+<img src='https://github.com/yash982000/User-Interface-for-a-Food-Delivery-App-Using-Flutter/blob/master/Screenshots/3.png' align='left' width='25%'>
+<img src='https://github.com/yash982000/User-Interface-for-a-Food-Delivery-App-Using-Flutter/blob/master/Screenshots/4.png' align='left' width='25%'>
+<img src='https://github.com/yash982000/User-Interface-for-a-Food-Delivery-App-Using-Flutter/blob/master/Screenshots/5.png' align='left' width='25%'>
+<img src='https://github.com/yash982000/User-Interface-for-a-Food-Delivery-App-Using-Flutter/blob/master/Screenshots/6.png' align='left' width='25%'>
+<img src='https://github.com/yash982000/User-Interface-for-a-Food-Delivery-App-Using-Flutter/blob/master/Screenshots/7.png' align='left' width='25%'>
+<img src='https://github.com/yash982000/User-Interface-for-a-Food-Delivery-App-Using-Flutter/blob/master/Screenshots/8.png' align='left' width='25%'>
