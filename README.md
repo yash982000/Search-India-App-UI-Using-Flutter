@@ -1,23 +1,16 @@
-# User Interface of Food Delivery App in  <img src='http://sovitpoudel.com.np/wp-content/uploads/2019/01/flutter.png' height='30' width='30' align='top'>
+# search_india
 
-In this project application, I try to make this interactive User Interface in Flutter.
-I also try to added some common and useful functionalities such as "Add to Cart" and "Drag to delete".
-For preview, below are some screenshots adn screen recording of the User Interface.
+A new Flutter application.
 
-Happy to see suggestions from you all:)
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
-## Screenshots
+A few resources to get you started if this is your first Flutter project:
 
-<img src='https://github.com/Ronak99/FoodDelivery-App-UI/blob/master/ss/app_gif.gif' align='left' width='25%'>
-<img src='https://github.com/Ronak99/FoodDelivery-App-UI/blob/master/ss/flutter_01.png' align='left' width='25%'>
-<img src='https://github.com/Ronak99/FoodDelivery-App-UI/blob/master/ss/food_delivery_second_screen.jpeg' align='left' width='25%'>
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-
-
-
-## Technologies Used
-Flutter  
-Dart  
-Visual Studio Code
-
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
