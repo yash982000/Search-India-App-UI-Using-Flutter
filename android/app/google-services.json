@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "105433086505",
+    "firebase_url": "https://search-india-cb545.firebaseio.com",
+    "project_id": "search-india-cb545",
+    "storage_bucket": "search-india-cb545.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105433086505:android:504e3501dd4c91cd753a38",
+        "android_client_info": {
+          "package_name": "com.example.search_india"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105433086505-bfdju42qpjpifpn6u5f2ebaa9sl9a58q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.search_india",
+            "certificate_hash": "951b1a431797bad1ea58d9427c6416dc90f5dbeb"
+          }
+        },
+        {
+          "client_id": "105433086505-3hiis52q5u3r641bfacu22p3kp19ikgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8IRf3qxELm874q-zPVKgo79xs0PJIwro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105433086505-3hiis52q5u3r641bfacu22p3kp19ikgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
