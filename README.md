@@ -7,6 +7,7 @@ Preview for the same is shown below.
 ## Technologies Used
 Dart  
 Flutter  
+
 Visual Studio Code
 
 ## Screenshots
