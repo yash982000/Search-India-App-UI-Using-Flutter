@@ -5,8 +5,9 @@ The code is editted,formatted and some new features are added to make the UI bet
 Preview for the same is shown below.
 
 ## Technologies Used
+Dart
 Flutter  
-Dart  
+  
 Visual Studio Code
 
 ## Screenshots
