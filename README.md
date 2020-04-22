@@ -12,7 +12,6 @@ Visual Studio Code
 ## Screenshots
 
 
-
 <img src='https://github.com/yash982000/User-Interface-for-a-Food-Delivery-App-Using-Flutter/blob/master/Screenshots/1.png' align='left' width='25%'>
 <img src='https://github.com/yash982000/User-Interface-for-a-Food-Delivery-App-Using-Flutter/blob/master/Screenshots/4.png' align='left' width='25%'>
 <img src='https://github.com/yash982000/User-Interface-for-a-Food-Delivery-App-Using-Flutter/blob/master/Screenshots/3.png' align='left' width='25%'>
