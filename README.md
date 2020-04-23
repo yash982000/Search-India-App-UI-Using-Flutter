@@ -6,8 +6,8 @@ Preview for the same is shown below.
 
 ## Technologies Used
 
+Flutter 
 Dart  
-Flutter  
 Visual Studio Code
 
 ## Screenshots
