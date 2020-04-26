@@ -6,7 +6,7 @@ Preview for the same is shown below.
 
 ## Technologies Used
 
-Dart
+Dart  
 Flutter   
 Visual Studio Code
 
