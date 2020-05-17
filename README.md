@@ -3,7 +3,7 @@
 In this project, I try to make this Search India UI in flutter. 
 The code is editted,formatted and some new features are added to make the UI better for users.
 Preview for the same is shown below.
-
+  
 ## Technologies Used  
     
 Dart  
