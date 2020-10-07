@@ -23,6 +23,7 @@ Visual Studio Code
 <img src='https://github.com/yash982k/Search-India-App-UI-Using-Flutter/blob/master/ss/flutter_01.png' align='left' width='25%'>
 <img src='hhttps://github.com/yash982k/Search-India-App-UI-Using-Flutter/blob/master/ss/food_delivery_second_screen.jpeg' align='left' width='25%'>
 <img src='https://github.com/yash982k/Search-India-App-UI-Using-Flutter/blob/master/ss/app_gif.gif' align='left' width='25%'>
+<img src='https://github.com/yash982000/Search-India-App-UI-Using-Flutter/blob/master/target/food-delivery_cart.png' align='left' width='25%'>
 
 
 
